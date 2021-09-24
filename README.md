@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="/part1.gif" width="30%"/>
+<img src="/twitter_part1.gif" width="30%"/>
 
 ## Note
 - [X] Due to the late time of recording, I couldn't show how I reloaded old tweets, but it works!  
