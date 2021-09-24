@@ -75,7 +75,7 @@
                                             <nil key="textColor"/>
                                             <nil key="highlightedColor"/>
                                         </label>
-                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Random Tweet" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Vnw-mo-HBw">
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Random Tweet" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Vnw-mo-HBw">
                                             <rect key="frame" x="89" y="32" width="309" height="105"/>
                                             <fontDescription key="fontDescription" type="system" pointSize="11"/>
                                             <nil key="textColor"/>
@@ -93,18 +93,12 @@
                                         <constraint firstItem="0mp-2t-cX8" firstAttribute="top" secondItem="3W3-07-8dV" secondAttribute="topMargin" constant="4" id="297-Jy-bdb"/>
                                         <constraint firstItem="P7b-ou-fZo" firstAttribute="leading" secondItem="3W3-07-8dV" secondAttribute="leadingMargin" id="7Vh-zD-ylT"/>
                                         <constraint firstItem="0mp-2t-cX8" firstAttribute="leading" secondItem="P7b-ou-fZo" secondAttribute="trailing" constant="4" id="D3e-OK-tVM"/>
-                                        <constraint firstItem="Vnw-mo-HBw" firstAttribute="top" secondItem="0mp-2t-cX8" secondAttribute="bottom" constant="2" id="F6O-xr-gpj"/>
                                         <constraint firstItem="P7b-ou-fZo" firstAttribute="top" secondItem="0mp-2t-cX8" secondAttribute="top" id="GhE-e1-TBa"/>
-                                        <constraint firstItem="Vnw-mo-HBw" firstAttribute="bottom" secondItem="3W3-07-8dV" secondAttribute="bottomMargin" id="Mzg-gr-eFs"/>
                                         <constraint firstItem="Vnw-mo-HBw" firstAttribute="top" secondItem="0mp-2t-cX8" secondAttribute="bottom" id="PM3-m9-APq"/>
                                         <constraint firstAttribute="trailingMargin" secondItem="Vnw-mo-HBw" secondAttribute="trailing" constant="-4" id="UXw-h3-cbT"/>
                                         <constraint firstItem="0mp-2t-cX8" firstAttribute="leading" secondItem="P7b-ou-fZo" secondAttribute="trailing" constant="4" id="ZdV-kK-X8R"/>
                                         <constraint firstItem="P7b-ou-fZo" firstAttribute="centerY" secondItem="3W3-07-8dV" secondAttribute="centerY" id="czx-QX-IGf"/>
-                                        <constraint firstItem="Vnw-mo-HBw" firstAttribute="top" secondItem="0mp-2t-cX8" secondAttribute="bottom" id="dhe-7F-qMY"/>
-                                        <constraint firstAttribute="bottom" secondItem="Vnw-mo-HBw" secondAttribute="bottom" id="jlB-hz-0XG"/>
-                                        <constraint firstItem="Vnw-mo-HBw" firstAttribute="top" secondItem="0mp-2t-cX8" secondAttribute="bottom" constant="4" id="nBe-gJ-PSY"/>
                                         <constraint firstItem="0mp-2t-cX8" firstAttribute="top" secondItem="3W3-07-8dV" secondAttribute="topMargin" constant="4" id="p6w-B9-6Ma"/>
-                                        <constraint firstItem="Vnw-mo-HBw" firstAttribute="top" secondItem="0mp-2t-cX8" secondAttribute="bottom" constant="4" id="tJt-1q-bJF"/>
                                         <constraint firstItem="Vnw-mo-HBw" firstAttribute="leading" secondItem="P7b-ou-fZo" secondAttribute="trailing" constant="4" id="zdH-t7-Bji"/>
                                     </constraints>
                                 </tableViewCellContentView>
