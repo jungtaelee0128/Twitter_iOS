@@ -23,5 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](part1.gif| width=100)
+<img src="/part1.gif" width="30%"/>
 
+## Note
+- [X] Due to the late time of recording, I couldn't show how I reloaded old tweets, but it works!  
